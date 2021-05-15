@@ -14,10 +14,10 @@
 
 
   <a href="https://github.com/lukemorales/rocketshoes-react-native/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/lukemorales/rocketshoes-react-native.svg">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/victorpremoli/dashgo.svg">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/lukemorales/rocketshoes-react-native.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/license/victorpremoli/dashgo.svg">
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@ $ yarn dev
 ```
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/rocketshoes-react-native/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/victorpremoli/dashgo/blob/master/LICENSE) for more information.
 
 ---
 
