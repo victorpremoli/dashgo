@@ -26,7 +26,7 @@
   <a href="#memo-license">License</a>
 </p>
 
-### :rocket: You can see [here!](https://dashgo-chi.vercel.app/dashboard)
+### :rocket: You can see [here!](https://dashgo-chi.vercel.app/)
 
 
 ## :rocket: Technologies
