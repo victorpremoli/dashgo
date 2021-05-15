@@ -3,6 +3,7 @@ import { Input } from "../components/Form/Input";
 import { SubmitHandler, useForm } from 'react-hook-form'
 import * as yup from 'yup';
 import { yupResolver } from "@hookform/resolvers/yup"
+import { Router, useRouter } from "next/router";
 
 type SingInFormData = {
   email: string;
@@ -21,10 +22,12 @@ export default function SingIn() {
 
   const { errors } = formState
   console.log(errors)
+  
+  const router = useRouter();
 
   const handleSingIn: SubmitHandler<SingInFormData> = async (values) => {
     await new Promise(resolve => setTimeout(resolve, 2000));
-    console.log(values)
+    router.push('/dashboard')
   }
 
   return (
